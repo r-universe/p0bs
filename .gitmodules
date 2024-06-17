@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/p0bs/p0bs.r-universe.dev
 	branch = HEAD
+[submodule "DataKindR"]
+	path = DataKindR
+	url = https://github.com/p0bs/DataKindR
 [submodule "p0bservations"]
 	path = p0bservations
 	url = https://github.com/p0bs/p0bservations
